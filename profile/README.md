@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**We are The Open Code Company**
+**We are The OpenCode Company**
 
 Hassle-free, no barriers, no nonsense policies, for open-source code collaboration for everyone!
 
