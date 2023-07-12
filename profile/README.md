@@ -4,4 +4,4 @@
 
 Hassle-free, no barriers, no nonsense policies, for open-source code collaboration for everyone!
 
-Fell free to join us.
+_Feel free to join us._
